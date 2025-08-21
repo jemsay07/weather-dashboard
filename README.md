@@ -78,10 +78,10 @@ weather-dashboard/ \
 
 ## 🙌 Acknowledgements
 
-OpenWeatherMap
+[OpenWeatherMap](https://openweathermap.org/)
  for the free weather API
 
-Next.js
+[Next.js](https://nextjs.org/)
  & Vercel
  for the framework and deployment
  
